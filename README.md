@@ -1,1 +1,3 @@
 # example-game-project
+
+I don't have friends...
